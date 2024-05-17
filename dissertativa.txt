@@ -1,0 +1,8 @@
+Inicio
+Leia o dígito que o usuário digitou
+Salve esse dígito como n
+Calcule a dezena com a formula: digito1 = n-1
+Calcule a unidade com a fórmula: digito2 = 10-n
+Calcule o resultado com a fórmula: digito1 + digito2
+Escreva o resultado
+Fim
