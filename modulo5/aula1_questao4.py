@@ -1,5 +1,7 @@
 import datetime
-d = datetime.datetime.now()
+data = datetime.datetime.now()
+data_texto = data.strftime('%d/%m/%Y')
+hora_texto = data.strftime('%H:%M')
 
-print(f"Data: {d.day}/{d.month}/{d.year}")
-print(f"Hora: {d.hour}:{d.minute}")
+print(f"Data: {data_texto}")
+print(f"Hora: {hora_texto}")
